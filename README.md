@@ -1,5 +1,5 @@
 # Multispeciality_Hospital_Web_App
-Provided the zip file of project as there were large no of files in this project.
+Provided the zip file of project as there are large no of .php files in this project.
 
 1. Download the hospital.zip file
 
